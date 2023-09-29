@@ -1,7 +1,5 @@
 # Body Composition AIM
 
-This repository is intended for AIM personnel and authorized collaborators only. Don't share without written consent. 
-
 This repository provides code for training and running the body composition pipeline, which consists of two deep learning models. The first model is to localize the L3 slice from the input CT scan. The second model is to segment the localized slice into three components: muscle, subcutaneous fat  and visceral fat.
 
 ### Getting Started
